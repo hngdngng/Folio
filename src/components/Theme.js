@@ -23,7 +23,7 @@ const theme = createMuiTheme({
     body1: {
       fontFamily: "'Raleway', sans-serif",
       lineHeight: 1.8,
-      textAlign: "justify"
+      textAlign: "left"
     }
   }
 });

@@ -8,8 +8,8 @@ const useStyles = makeStyles(() => ({
     tile: {
         borderRadius: "20px",
         marginTop: 20,
-        background: "linear-gradient(to right, #d9a7c7, #fffcdc)",
-        padding: 20
+        marginBottom: 20,
+        padding: 20,
     }
 }));
 
@@ -18,7 +18,7 @@ const Tile = ({ github, image, index, role, summary, title, url }) => {
     return (
         <div>
             <Container fixed >
-                <Card className={classes.tile} elevation={3}>
+                <Card className={`${classes.tile} tile${index}`} elevation={3}>
                     <CardContent>
                         <Grid container>
                             <Grid item md={6}>

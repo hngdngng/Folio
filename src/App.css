@@ -10,6 +10,30 @@ a:hover {
     transform: translate(0, -5px);
 }
 
+.tile0 {
+    background: linear-gradient(to top, #e2e0c6, #f0d0ff);
+}
+
+.tile1 {
+    background: linear-gradient(to right, #ACB6E5, #74ebd5);
+}
+
+.tile2 {
+    background: linear-gradient(to right, #F4D03F, #16A085);
+}
+
+.tile3 {
+    background: linear-gradient(to right, #FFC371, #FF5F6D);
+}
+
+.tile4 {
+    background: linear-gradient(to right, #ffdde1, #ee9ca7); 
+}
+
+.tile5 {
+    background: linear-gradient(to top, #ffc3a0, #FFAFBD);
+}
+
 .project-img {
     max-width: 400px;
     height: auto;
@@ -17,7 +41,13 @@ a:hover {
 }
 
 @media (max-width: 720px) {
-    .project-img0 {
+    .project-img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 720px) {
+    .project-img {
         width: 100%;
     }
 }
