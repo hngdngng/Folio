@@ -28,7 +28,8 @@ const useStyles = makeStyles(() => ({
 
 const navLinks = [
     { title: "projects", path: `${process.env.PUBLIC_URL}/` },
-    { title: "about", path: `${process.env.PUBLIC_URL}/#/about` }
+    { title: "about", path: `${process.env.PUBLIC_URL}/#/about` },
+    { title: "contact", path: `${process.env.PUBLIC_URL}/#/more` }
 ]
 
 const Navbar = () => {
