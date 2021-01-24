@@ -10,7 +10,7 @@ const useStyles = makeStyles({
     linkText: {
         textDecoration: `none`,
         textTransform: `uppercase`,
-        color: `black`,
+        color: `black`
     },
 });
 
@@ -51,7 +51,7 @@ const SideDrawer = ({ navLinks }) => {
                 edge="start"
                 aria-label="menu"
                 onClick={toggleDrawer("right", true)}>
-                <Menu fontSize="large" style={{ color: "white"}} />
+                <Menu fontSize="medium" style={{ color: "black"}} />
             </IconButton>
             <Drawer
                 anchor="right"
