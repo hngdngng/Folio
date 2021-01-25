@@ -7,14 +7,14 @@ a {
 }
 
 a:hover {
-    transform: translate(0, -5px);
+    transform: translate(0, -7px);
 }
 
 .tile0 {
     background: linear-gradient(to top, #e2e0c6, #f0d0ff);
 }
 
-.tile1 {
+/* .tile1 {
     background: linear-gradient(to right, #ACB6E5, #74ebd5);
 }
 
@@ -32,7 +32,7 @@ a:hover {
 
 .tile5 {
     background: linear-gradient(to top, #ffc3a0, #FFAFBD);
-}
+} */
 
 .project-img {
     max-width: 400px;
