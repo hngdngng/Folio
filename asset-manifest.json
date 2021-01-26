@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Folio/static/css/main.19353625.chunk.css",
-    "main.js": "/Folio/static/js/main.3aa0f0e0.chunk.js",
-    "main.js.map": "/Folio/static/js/main.3aa0f0e0.chunk.js.map",
+    "main.css": "/Folio/static/css/main.3a171d18.chunk.css",
+    "main.js": "/Folio/static/js/main.bf9d3fde.chunk.js",
+    "main.js.map": "/Folio/static/js/main.bf9d3fde.chunk.js.map",
     "runtime-main.js": "/Folio/static/js/runtime-main.0dcf17ba.js",
     "runtime-main.js.map": "/Folio/static/js/runtime-main.0dcf17ba.js.map",
     "static/js/2.7e87ff05.chunk.js": "/Folio/static/js/2.7e87ff05.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.a70913fc.chunk.js": "/Folio/static/js/3.a70913fc.chunk.js",
     "static/js/3.a70913fc.chunk.js.map": "/Folio/static/js/3.a70913fc.chunk.js.map",
     "index.html": "/Folio/index.html",
-    "static/css/main.19353625.chunk.css.map": "/Folio/static/css/main.19353625.chunk.css.map",
+    "static/css/main.3a171d18.chunk.css.map": "/Folio/static/css/main.3a171d18.chunk.css.map",
     "static/js/2.7e87ff05.chunk.js.LICENSE.txt": "/Folio/static/js/2.7e87ff05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0dcf17ba.js",
     "static/js/2.7e87ff05.chunk.js",
-    "static/css/main.19353625.chunk.css",
-    "static/js/main.3aa0f0e0.chunk.js"
+    "static/css/main.3a171d18.chunk.css",
+    "static/js/main.bf9d3fde.chunk.js"
   ]
 }
